@@ -173,4 +173,4 @@ bot.on('message', message => {
 })
 
 // bot.login(token);
-client.login(process.env.NjU1NjczNzMyNTMwMTc2MDA5.Xfm3pg.ggpxxY89FT8odI202SqimFjHCdg);
+client.login(process.env.BOT_TOKEN);
